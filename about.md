@@ -1,9 +1,6 @@
 ---
-title: 关于我
+title: about me
 permalink: /about/
 ---
 
-这里写你的自我介绍，比如：
-
-- 我是 Leslie，喜欢记录所学所想
-- 这个博客用于整理我的知识笔记
+I'm Leslie lyu currently work at Indonesia AI data center, i holding the NVDIA scale out ai data center network experience, deliver GB200/B200 network and GPU device mataince experience.
