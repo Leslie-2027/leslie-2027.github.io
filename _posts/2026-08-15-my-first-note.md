@@ -21,6 +21,7 @@ In the traditional data centers, like enterprise fabric or cloud data center , w
 But when we touch the AI data center, everything changes. At the AI or we can call it HPC(high performence computing) data center the data need to transmitted between difference GPU device, the  traditination socket modle for GPU too slow, because traditination network at server side higly depend on the CPU funcation to copy the data and kernel encapsulation.
 To skip the CPU and kernel encapsulation, we design the Remote direct memory access technology to achieve higher transmission between different nodes.
 
+<img width="816" height="456" alt="image" src="https://github.com/user-attachments/assets/a4cf4c35-8012-4eba-a880-daaeb236fc7c" />
 
 
 RDMA technology is the most comman transmission technology bewteen GPU server, but RDMA for the tradination network (Ethernet) is a another plane technology can't direcly running at the ethernet envirorment, because tradination network modle type is Best-effort, the IP network just forwards packets on a best-effort basis. Upon errors,packet loss or out-of-order delivery the IP layer simply discards packets and performs no retransmission or error correction.
