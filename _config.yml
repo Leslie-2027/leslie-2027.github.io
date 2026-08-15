@@ -1,22 +1,17 @@
 title: Leslie 的知识笔记
-description: 记录学习笔记 · 技术 · 生活
+description: 记录学习笔记
 url: https://leslie-2027.github.io
 locale: zh-CN
 timezone: Asia/Shanghai
-
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: mint
-
 author:
   name: Leslie
-  bio: 持续学习，认真记录
-
+  bio: 持续学习认真记录
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 paginate: 5
-
 category_archive:
   type: liquid
   path: /categories/
