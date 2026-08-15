@@ -1,8 +1,8 @@
 ---
-title: "我的第一篇知识笔记"
+title: "Remote direct memory access over Ethernet"
 date: 2026-08-15
-categories: 学习
-tags: 随笔
+categories: ROCE
+tags: AI-DC
 ---
 
 正文用 Markdown 语法写，比如：
