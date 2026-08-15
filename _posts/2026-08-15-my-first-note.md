@@ -1,4 +1,4 @@
-<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/195340b9-1767-433b-a743-fe310661f5c3" /><img width="3421" height="1914" alt="image" src="https://github.com/user-attachments/assets/9411b345-670d-4d54-a24f-a6cfdb8b59eb" />---
+---
 title: "Remote direct memory access over Ethernet"
 date: 2026-08-15
 categories: ROCE
