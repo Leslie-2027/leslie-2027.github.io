@@ -8,9 +8,7 @@ tags: AI-DC
 
 
 
-Notice:Before we get started , I want to share one point . It is that if we want to really know one technology knowledge, we should not just know it from the  appearance or a lot specific characteristics of written form.
-We should explore the deep why human desig it we we need it.
-We should be more patient and more passionate about this process instead of appearance knowledge.
+
 
 Before we get started , I want to share one point . It is that if we want to really know one technology knowledge, we should not just know it from the  appearance or a lot specific characteristics of written form.
 We should explore the deep why human desig it we we need it.
