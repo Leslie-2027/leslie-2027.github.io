@@ -19,3 +19,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Leslie-2027"
